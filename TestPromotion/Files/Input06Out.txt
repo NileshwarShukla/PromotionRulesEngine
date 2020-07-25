@@ -1,0 +1,7 @@
+Enter Product with Unit Price 
+ Ex : Product1 UnitPrice 
+ keep Blank to end
+Enter Rules  
+ Ex : 3 of A's for 130 OR C & D for 30 
+ keep Blank to end
+0

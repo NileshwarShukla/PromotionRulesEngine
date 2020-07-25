@@ -1,0 +1,8 @@
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionLibray.dll
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionLibray.pdb
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache

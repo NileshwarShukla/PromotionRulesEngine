@@ -1,0 +1,5 @@
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\bin\Debug\PromotionLibray.dll
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\bin\Debug\PromotionLibray.pdb
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.csprojResolveAssemblyReference.cache
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.dll
+c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.pdb

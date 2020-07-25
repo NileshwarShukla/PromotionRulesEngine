@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine", "PromotionEngine\PromotionEngine.csproj", "{38DF7DAA-EF02-41A7-B5F8-942A82C31435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPromotion", "TestPromotion\TestPromotion.csproj", "{FC582004-1995-48C7-9086-DD92FFFA3ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionLibray", "PromotionLibray\PromotionLibray.csproj", "{D158092E-38D6-4395-81AE-A02FDC942669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DF7DAA-EF02-41A7-B5F8-942A82C31435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DF7DAA-EF02-41A7-B5F8-942A82C31435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DF7DAA-EF02-41A7-B5F8-942A82C31435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DF7DAA-EF02-41A7-B5F8-942A82C31435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC582004-1995-48C7-9086-DD92FFFA3ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC582004-1995-48C7-9086-DD92FFFA3ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC582004-1995-48C7-9086-DD92FFFA3ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC582004-1995-48C7-9086-DD92FFFA3ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D158092E-38D6-4395-81AE-A02FDC942669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D158092E-38D6-4395-81AE-A02FDC942669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D158092E-38D6-4395-81AE-A02FDC942669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D158092E-38D6-4395-81AE-A02FDC942669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
