@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PromotionEngine
 {
-    public class ItemsRuleFixedPrice : IRule
+    public class ItemsRuleFixedPrice : Product, IRule
     {
         public int RuleQuantity { get; set; }
         public Product Product { get; set; }
@@ -29,7 +29,7 @@ namespace PromotionEngine
            this.RulePrice = Convert.ToDecimal(input[index + 1]);
        
        }
-       public void CalculatePrice()
+       public override void CalculatePrice()
        {
            if (this.Product == null) return;
 

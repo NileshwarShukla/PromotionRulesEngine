@@ -18,7 +18,7 @@ namespace PromotionEngine
 
         public bool IsProductAssociatedWithRule { get; set; }
 
-        public void CalculatePrice()
+        public virtual void CalculatePrice()
         {
             Price += Quantity * UnitPrice;
         }

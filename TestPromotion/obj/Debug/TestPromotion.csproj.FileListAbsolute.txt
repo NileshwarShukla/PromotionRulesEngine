@@ -6,3 +6,11 @@ c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\TestPro
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\TestPromotion\obj\Debug\TestPromotion.pdb
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\TestPromotion\bin\Debug\PromotionLibray.dll
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\TestPromotion\bin\Debug\PromotionLibray.pdb
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\bin\Debug\TestPromotion.dll.config
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\bin\Debug\TestPromotion.dll
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\bin\Debug\TestPromotion.pdb
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\bin\Debug\PromotionLibray.dll
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\bin\Debug\PromotionLibray.pdb
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\obj\Debug\TestPromotion.csprojResolveAssemblyReference.cache
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\obj\Debug\TestPromotion.dll
+E:\ConsoleApp1\PromotionRulesEngine\TestPromotion\obj\Debug\TestPromotion.pdb

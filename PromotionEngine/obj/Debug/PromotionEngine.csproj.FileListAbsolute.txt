@@ -6,3 +6,11 @@ c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\Promoti
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionLibray.dll
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionLibray.pdb
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\bin\Debug\PromotionLibray.dll
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\bin\Debug\PromotionLibray.pdb
+E:\ConsoleApp1\PromotionRulesEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache

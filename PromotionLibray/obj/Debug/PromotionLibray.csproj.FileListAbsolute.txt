@@ -3,3 +3,8 @@ c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\Promoti
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.csprojResolveAssemblyReference.cache
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.dll
 c:\users\shivangis\documents\visual studio 2012\Projects\PromotionEngine\PromotionLibray\obj\Debug\PromotionLibray.pdb
+E:\ConsoleApp1\PromotionRulesEngine\PromotionLibray\obj\Debug\PromotionLibray.csprojResolveAssemblyReference.cache
+E:\ConsoleApp1\PromotionRulesEngine\PromotionLibray\obj\Debug\PromotionLibray.dll
+E:\ConsoleApp1\PromotionRulesEngine\PromotionLibray\obj\Debug\PromotionLibray.pdb
+E:\ConsoleApp1\PromotionRulesEngine\PromotionLibray\bin\Debug\PromotionLibray.dll
+E:\ConsoleApp1\PromotionRulesEngine\PromotionLibray\bin\Debug\PromotionLibray.pdb
